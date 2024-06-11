@@ -1,4 +1,5 @@
 # Olympiads and Hackathons bot
+# https://t.me/Olimpiads_ru_bot
 ## Описание
 <p>Бот поможет отслеживать актуальные олимпиады и хакатоны по РФ </p>
 
